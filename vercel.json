@@ -1,0 +1,7 @@
+{
+  "name": "ptocb",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://ptocb.xrabbitz.workers.dev/$1"}
+  ]
+}
